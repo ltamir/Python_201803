@@ -5,6 +5,7 @@ Ariel Python Course summer 2018
 
 `* - bullet list item
 `--- = HTML HR
+`![picture]
 
 ```c
 int num = 4;
